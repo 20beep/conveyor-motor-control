@@ -33,3 +33,11 @@ After timer completion, motor stops automatically.
 If Emergency is pressed, a fault memory bit is set.
 
 System remains locked until Reset is pressed.
+### 1. System Active & Motor Running
+![System Active](Ekran görüntüsü 2026-03-03 232521.png)
+
+### 2. Sensor Triggered & Timer Counting
+![Timer Counting](Ekran görüntüsü 2026-03-03 232600.png)
+
+### 3. Motor Restarted Automatically
+![Motor Restart](Ekran görüntüsü 2026-03-03 232618.png)
